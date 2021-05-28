@@ -18,7 +18,7 @@
     Hosted Machine Learning Project - <a href="http://mlexamples.herokuapp.com/">http://mlexamples.herokuapp.com/</a>  <br>
     Portfolio Website - <a href="https://panthitesh6410.github.io/personal-portfolio/">https://panthitesh6410.github.io/personal-portfolio/</a>  <br>
     <br><br>
-    
+    <div>
     <h2>Text resume -</h2> <br><br>
 
         Hitesh Pant <br>
@@ -144,5 +144,9 @@
          - 5 star problem solving golden badge and HackerRank problem solving certification<Br>
 
 
+      
+      </div>
+      
+      
           </body>
         </html>
