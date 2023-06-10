@@ -3,11 +3,10 @@
     <h3>👋 Hi, I’m Hitesh Pant</h3>
     <h3>👀 I’m interested in Backend Development and Programming</h3>
     <h4>Programming Languages - Java, C++, Python</h4>
-    <h4>Front End - HTML, CSS, Bootstrap, js</h4>
-    <h4>Databases - MySQL, MongoDB</h4>
-    <h4>Frameworks - Java SpringBoot, Python Django</h4>
+    <h4>Front End - Angular, HTML, CSS, Bootstrap, js</h4>
+    <h4>Databases - MySQL, MongoDB, Elastic Search</h4>
+    <h4>Frameworks - Java SpringBoot, Python Django, Angular JS</h4>
     <h4>Version Control System - GIT, Github, Gitlab</h4>
-    <h3>📫 I’m currently working with Tata Consultancy Services(TCS) as an Assistant Systems Engineer</h3>
     <h3>How to reach me - <br><b>(Gmail - panthitesh6410@gmail.com)</b></h3>
     <h3>Links to my Work and Profiles - </h3>
     LinkedIn - <a href="https://www.linkedin.com/in/hitesh-pant-714768154">https://www.linkedin.com/in/hitesh-pant-714768154</a> <br>
